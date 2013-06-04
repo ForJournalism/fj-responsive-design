@@ -12,23 +12,23 @@ Responsive Design for Journalism
 
 ## 3. CSS
 
-## 4. JavaScript
-
-## 5. Git for Journalism
-
 # Part 2 - Code and Strategy
 
-## 6. Selectors
+## 4. Selectors
 
-## 7. Boxes (box model, flexbox, tables, other layout stuff)
+## 5. JavaScript
 
-## 8. Typography
+## 6. Boxes (box model, flexbox, tables, other layout stuff)
 
-## 9. Imagery
+## 7. Typography
 
-## 10. UI
+## 8. Imagery
+
+## 9. UI
 
 # Part 3 - Project Building
+
+## 10. Git for Journalism
 
 ## 11. IA
 
