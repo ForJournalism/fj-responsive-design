@@ -11,14 +11,30 @@ Responsive Design for Journalism
 ## 2. HTML
 Basic tags: Go forth into your CMS and maketh things bold
 
-* p, h1-h6, b, strong, i, em, ul, li
-* a (internal targeting with IDs, external links, mailto:, tel:)
-* img (src, title attribute)
-* table, thead, tbody, th, tr, td
+* elements are made of tags
+    * div vs. span (block vs. inline)
+    * h1-h6, p
+    * strong vs. b, em vs. i
+* links
+    * a href, with relative and absolute paths
+    * title and target attributes
+    * using element IDs for internal targeting
+    * mailto: and tel:
+* img
+    * src
+    * align, width, height
+    * title attribute
+* lists
+    * ul
+    * ol
+    * dl
+* table
+    * tr, th, td
+    * thead, tbody
 
 Structure: Organizing an HTML document
 
-* head, body, div, span
+* head, body
 * Intro to HTML5: header, footer, nav, article, section
 
 ## 3. CSS
